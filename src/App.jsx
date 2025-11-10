@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Calendar, Clock, MapPin, Trophy, AlertCircle, Loader2 } from ' lucide-react';
+import { Calendar, Clock, MapPin, Trophy, AlertCircle, Loader2 } from 'lucide-react';
 
 export default function App() {
     const [jogos, setJogos] = useState([]);
